@@ -43,6 +43,7 @@
 ## 📫 Как связаться
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniil_ushakovvv) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Daniil_Ushakovv)
+
 ---
 
 ⭐ Всегда открыт к новым инженерным и программным проектам!
