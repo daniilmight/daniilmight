@@ -37,7 +37,9 @@
 ---
 
 ## 📫 Как связаться
-- GitHub: [daniilmight](https://github.com/daniilmight)  
+- GitHub: [daniilmight](https://github.com/daniilmight)
+- Telegram: [@Daniil_Ushakovv](https://t.me/Daniil_Ushakovv)
+- VK: [daniil_ushakovvv](https://vk.com/daniil_ushakovvv)
 
 ---
 
