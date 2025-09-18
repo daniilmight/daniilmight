@@ -1,13 +1,10 @@
 {
   "user": "daniilmight",
-  "theme": "radical",
-  "hide": ["contribs", "prs", "issues", "stargazers", "recent-activity"],
-  "plugins": [
-    "languages",
-    "most-commit-days",
-    "commit-heatmap",
-    "repositories"
-  ],
-  "langs-count": 5,
-  "langs-mode": "percent"
+  "hide": ["contribs", "prs", "issues", "stargazers", "recent-activity", "repositories"],
+  "plugins": ["languages"],
+  "theme": "dark",
+  "langs-count": 10,
+  "langs-mode": "percent",
+  "show-progress": true,
+  "layout": "wide"
 }
