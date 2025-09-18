@@ -18,9 +18,8 @@
 
 ## 📊 Статистика GitHub
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilmight&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilmight&theme=github_dark&format=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilmight&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
