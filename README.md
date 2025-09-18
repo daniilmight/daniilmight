@@ -20,7 +20,6 @@
 
 [![Top Langs Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilmight&theme=github_dark&format=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Metrics](https://metrics.lecoq.io/daniilmight?template=classic&config=metrics-config.json)
 
 
 ---
