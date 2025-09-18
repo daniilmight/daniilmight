@@ -18,7 +18,9 @@
 
 ![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=avr&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0e?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATHCAD](https://img.shields.io/badge/MATHCAD-ff5f0e?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ![ORCAD](https://img.shields.io/badge/ORCAD-007396?style=for-the-badge&logo=orCAD&logoColor=white)
 ![Multisim](https://img.shields.io/badge/Multisim-8A2BE2?style=for-the-badge&logo=labview&logoColor=white)
