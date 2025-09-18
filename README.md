@@ -18,10 +18,9 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daniilmight&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniilmight&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daniilmight&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Stats&token=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)  
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniilmight&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Stats&token=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)  
 
 ---
 
