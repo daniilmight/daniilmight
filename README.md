@@ -1,0 +1,32 @@
+# Я - Ушаков Даниил
+
+🎓 Студент факультета приборостроения.  
+⚡ Разрабатываю микроконтроллерные проекты на базе AVR (ATmega32) и Arduino.  
+📚 Занимаюсь проектированием цифровых и аналоговых фильтров.  
+
+---
+
+## 🛠️ Навыки и технологии
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0e?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniilmight&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilmight&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=daniilmight&theme=tokyonight&hide_border=true)  
+
+---
+
+## 📫 Как связаться
+- GitHub: [daniilmight](https://github.com/daniilmight)  
+
+---
+
+⭐ Всегда открыт к новым инженерным и программным проектам!
