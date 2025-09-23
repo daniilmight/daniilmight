@@ -32,7 +32,7 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autocad&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 📊 Статистика GitHub
+## 📊 Статистика языков программирования
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilmight&hide_title=true&hide=makefile&size_weight=0.1&count_weight=0.9&hide_border=true&theme=cobalt&card_width=600)
