@@ -34,9 +34,8 @@
 
 ## 📊 Статистика GitHub
 
-[![Top Langs Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilmight&theme=github_dark&format=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilmight&hide_title=true&hide=makefile&size_weight=0.1&count_weight=0.9&hide_border=true&theme=cobalt&card_width=600)
 
 ---
 
