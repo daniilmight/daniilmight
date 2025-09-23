@@ -12,8 +12,8 @@
 
 ## 🛠️ Навыки и технологии
 
-![C](https://img.shields.io/badge/C-4640b8?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-365dbf?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![C](https://img.shields.io/badge/C-4640b8?style=for-the-badge&logo=c&logoColor=white)](https://github.com/stars/daniilmight/lists/c-c)
+[![C++](https://img.shields.io/badge/C++-365dbf?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/stars/daniilmight/lists/c-c)
 ![Python](https://img.shields.io/badge/Python-F9DC3E?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=atmel&logoColor=white)
