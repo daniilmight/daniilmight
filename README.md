@@ -20,7 +20,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0e?style=for-the-badge&logo=mathworks&logoColor=white)
-![MATHCAD](https://img.shields.io/badge/MATHCAD-ff5f0e?style=for-the-badge&logo=mathworks&logoColor=white)
+[![MATHCAD](https://img.shields.io/badge/MATHCAD-ff5f0e?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/stars/daniilmight/lists/mathcad)
 
 [![ORCAD](https://img.shields.io/badge/ORCAD-007396?style=for-the-badge&logo=orcad&logoColor=white)](https://github.com/stars/daniilmight/lists/orcad)
 ![Multisim](https://img.shields.io/badge/Multisim-8A2BE2?style=for-the-badge&logo=labview&logoColor=white)
